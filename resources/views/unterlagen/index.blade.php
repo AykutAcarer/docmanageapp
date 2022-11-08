@@ -55,6 +55,7 @@
         <nav class="row navbar bg-light" >
             <div class="container-fluid">
                 <a href=""><img src="/images/no-image.png" alt="" width="50" height="50" class="navbar-brand rounded-circle img-fluid"></a>
+                <p>This website is under construction!!!</p>
                 <div class="">
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
