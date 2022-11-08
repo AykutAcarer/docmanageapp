@@ -38,7 +38,7 @@
         <nav class="row navbar bg-light" >
             <div class="container-fluid">
                 <a href=""><img src="/images/no-image.png" alt="" width="50" height="50" class="navbar-brand rounded-circle img-fluid"/></a>
-                <p class="fs-2 font-monospace text-muted">This website is under construction!!!</p>
+                <p class="fs-3 font-monospace text-muted">This website is under construction!!!</p>
                 <div class="">
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
