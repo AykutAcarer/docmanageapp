@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="Trumbowyg-main/dist/ui/trumbowyg.min.css">
     <link rel="stylesheet" href="Trumbowyg-main/dist/plugins/colors/ui/trumbowyg.colors.css">
 
+    
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/0ba0b67143.js" crossorigin="anonymous"></script>
 
