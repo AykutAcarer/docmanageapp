@@ -11,8 +11,8 @@
     <!-- <link href='https://cdn.jsdelivr.net/npm/froala-editor@latest/css/froala_editor.pkgd.min.css' rel='stylesheet' type='text/css' /> -->
 
     <!-- Import Trumbowyg CSS -->
-    <link rel="stylesheet" href="Trumbowyg-main/dist/ui/trumbowyg.min.css">
-    <link rel="stylesheet" href="Trumbowyg-main/dist/plugins/colors/ui/trumbowyg.colors.css">
+    <link rel="stylesheet" href="../../Trumbowyg-main/dist/ui/trumbowyg.min.css">
+    <link rel="stylesheet" href="../../Trumbowyg-main/dist/plugins/colors/ui/trumbowyg.colors.css">
 
     
     <!-- Font Awesome -->
@@ -152,10 +152,10 @@
 
 
 
-    <script src="Trumbowyg-main/dist/trumbowyg.min.js"></script>
+    <script src="../../Trumbowyg-main/dist/trumbowyg.min.js"></script>
 
-    <script src="Trumbowyg-main/dist/plugins/cleanpaste/trumbowyg.cleanpaste.min.js"></script>
-    <script src="Trumbowyg-main/dist/plugins/pasteimage/trumbowyg.pasteimage.min.js"></script>
+    <script src="../../Trumbowyg-main/dist/plugins/cleanpaste/trumbowyg.cleanpaste.min.js"></script>
+    <script src="../../Trumbowyg-main/dist/plugins/pasteimage/trumbowyg.pasteimage.min.js"></script>
  
     <script>
         $('#unterlagen_kapitel_inhalt').trumbowyg({
