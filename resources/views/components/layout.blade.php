@@ -8,13 +8,8 @@
     <title>index</title>
     
     <!--Froala Editor-->
-    <!-- <link href='https://cdn.jsdelivr.net/npm/froala-editor@latest/css/froala_editor.pkgd.min.css' rel='stylesheet' type='text/css' /> -->
+    <link href='https://cdn.jsdelivr.net/npm/froala-editor@latest/css/froala_editor.pkgd.min.css' rel='stylesheet' type='text/css' />
 
-    <!-- Import Trumbowyg CSS -->
-    <link rel="stylesheet" href="../../Trumbowyg-main/dist/ui/trumbowyg.min.css">
-    <link rel="stylesheet" href="../../Trumbowyg-main/dist/plugins/colors/ui/trumbowyg.colors.css">
-
-    
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/0ba0b67143.js" crossorigin="anonymous"></script>
 
@@ -145,36 +140,11 @@
 
     </script>
 
-    <!-- <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/froala-editor@latest/js/froala_editor.pkgd.min.js'></script>  
+    <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/froala-editor@latest/js/froala_editor.pkgd.min.js'></script>  
     <script> 
         var editor = new FroalaEditor('#unterlagen_kapitel_inhalt');
-    </script> -->
-
-
-
-    <script src="../../Trumbowyg-main/dist/trumbowyg.min.js"></script>
-
-    <script src="../../Trumbowyg-main/dist/plugins/cleanpaste/trumbowyg.cleanpaste.min.js"></script>
-    <script src="../../Trumbowyg-main/dist/plugins/pasteimage/trumbowyg.pasteimage.min.js"></script>
- 
-    <script>
-        $('#unterlagen_kapitel_inhalt').trumbowyg({
-        btns: [
-            ['viewHTML'],
-            ['undo', 'redo'], // Only supported in Blink browsers
-            ['formatting'],
-            ['strong', 'em', 'del'],
-            ['superscript', 'subscript'],
-            ['link'],
-            ['insertImage'],
-            ['justifyLeft', 'justifyCenter', 'justifyRight', 'justifyFull'],
-            ['unorderedList', 'orderedList'],
-            ['horizontalRule'],
-            ['removeformat'],
-            ['fullscreen']
-        ]
-    });
     </script>
+
 </body>
 
 </html>
